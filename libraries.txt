@@ -1,0 +1,13 @@
+Crypto Library:
+
+npm install --save crypto-js
+
+Elliptic Library:
+
+npm install elliptic
+
+
+
+Private key: 1b1736b8ea4212e7d035cd9501fab0c10917c1b40f4ee4ab30fcc501b7a6d986
+
+Public key: 04debe09b680fe413fca675d4f879901563eb08fc4e02f091bdfa2e916fd067e4d8bbf4811732c32dbd90982d5ec1cecccf3dbcdc792cd95819552982ad57c956b
