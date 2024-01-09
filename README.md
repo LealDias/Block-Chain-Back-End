@@ -41,3 +41,10 @@ In essence, blockchain's decentralized and secure nature has the potential to tr
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
 </p>
+
+# The Flow
+
+![image](https://github.com/LealDias/Block-Chain-Back-End/assets/70763447/2a474bf3-ef68-413a-bb21-aee79e8ecea4)
+
+
+
